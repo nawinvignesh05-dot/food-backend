@@ -10,4 +10,7 @@ geopy==2.4.1
 numpy==1.26.4
 pandas==2.3.2
 
+google-generativeai==0.8.5
+google-ai-generativelanguage==0.6.15
+
 gunicorn==23.0.0
